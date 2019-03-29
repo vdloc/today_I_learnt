@@ -1,4 +1,4 @@
-# Somethings I hace learned about JS - part 3
+# Somethings I have learned about JS - part 3
 
 1. When we say “we can’t use double equation to compare two object ” may be half true.When we compare two variables which they’re both bind to the same one Object so the result is “true” and when we compare two variables which they’re bind to the different objects each one so the result is ‘false’.
 Ex: 
