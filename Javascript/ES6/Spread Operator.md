@@ -14,4 +14,19 @@
    let min = Math.min(...numbers) // spread operator will spread  the items of the array become the separated arguments
    ```
 
+2. We can use spread operator to create a new array from an iterative object or `concat` two array with efficiently:
+
+   ```javascript
+   let m = new Map();
+   m.set('foo','bar');
+   m.set('bar', 'foo');
+   console.log([...m]) //[ [ 'foo', 'bar' ], [ 'bar', 'foo' ] ]
+   ```
+
+   ```javascript
+   let cat = [1, 2, 3];
+   let dog = [4, 5, 6];
+   let foo = [...cat, ...dog] // [1, 2, 3, 4, 5, 6]
+   ```
+
    
