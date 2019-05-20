@@ -1,0 +1,3 @@
+- `em` unit is calculated by the width of a capital “M”
+- `ex` unit as the same and be the height of the lowercase “x”
+- `ch` unit as the same and be the width of the zero “0”
