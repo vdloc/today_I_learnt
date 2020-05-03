@@ -1,0 +1,23 @@
+{
+  "name": "today_I_learnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convertToTXT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdloc/today_I_learnt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdloc/today_I_learnt/issues"
+  },
+  "homepage": "https://github.com/vdloc/today_I_learnt#readme",
+  "devDependencies": {
+    "markdown-to-txt": "^1.0.1"
+  }
+}
