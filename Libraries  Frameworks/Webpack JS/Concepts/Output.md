@@ -6,5 +6,3 @@ output: {
     filename: 'my-first-webpack.bundle.js'
   }
 ```
-
-- 

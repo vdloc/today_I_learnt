@@ -1,9 +1,12 @@
-# CLEAN SVG FILES 
+# Cleaning SVG file
 
-1. Before using or publishing the svg files, we should clean the unnecessary attributes like :
-   - xmlns:xlink
-   - x, y
-   - xml:space
-   - style=“enable-background…”
-   - DOCTYPE
-   -  xml version
+
+
+- Before using or publishing the SVG files, we should clean the unnecessary attributes like :
+   - ***xmlns:xlink***
+   - ***x, y***
+   - ***xml:space***
+   - ***style=“enable-background…”***
+   - ***DOCTYPE***
+   -  **xml version**
+
