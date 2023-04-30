@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/vdloc/today_I_learnt#readme",
   "devDependencies": {
-    "markdown-to-txt": "^1.0.1"
+    "markdown-to-txt": "^2.0.1"
   }
 }
